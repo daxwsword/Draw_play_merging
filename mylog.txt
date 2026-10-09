@@ -1,0 +1,14 @@
+* 344eb95 (HEAD -> main) Jerry is red now
+| * a55f05a (secondConflict) Jerry is black instead of dark grey
+|/  
+| * c53d419 (firstConflict) Jerry is grey instead of dark grey
+|/  
+* b7eb654 (secondMouse) Added Jerry
+*   48601d1 Merge branch 'addmouse'
+|\  
+| * 784dbd4 (addmouse) Mouse says eeek
+| * ea7950b Mouse added
+* | f40f78a (origin/main, catears) Added ears
+|/  
+* ff68efd Added Whiskers to the cat
+* b4655b7 initial commit

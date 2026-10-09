@@ -1,0 +1,9 @@
+Not sure how we're supposed to submit this stuff, so we're just putting it here
+
+Before resolving conflict:
+<<<<<<< HEAD
+		g2.setColor(Color.red);
+=======
+		g2.setColor(Color.gray);
+>>>>>>> firstConflict
+
