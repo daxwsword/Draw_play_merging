@@ -9,11 +9,7 @@ public class Jerry {
 	public void draw(Graphics g, int mouseX, int mouseY)
 	{
 		Graphics2D g2 = (Graphics2D) g;
-<<<<<<< HEAD
-		g2.setColor(Color.red);
-=======
 		g2.setColor(Color.gray);
->>>>>>> firstConflict
 		g2.fillOval(mouseX, mouseY, BODY_LENGTH, BODY_HEIGHT);
 		int x = mouseX + BODY_LENGTH;
 		int y = mouseY + BODY_HEIGHT/2;

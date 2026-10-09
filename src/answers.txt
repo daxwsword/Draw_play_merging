@@ -7,3 +7,8 @@ Before resolving conflict:
 		g2.setColor(Color.gray);
 >>>>>>> firstConflict
 
+Set color to red in the main branch, then to grey in the conflicting branch
+Tried to merge and this showed up in the file
+
+
+After resolving merge:
